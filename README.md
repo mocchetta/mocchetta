@@ -4,7 +4,6 @@
 
 Interested in target identification, perturbation response prediction, biological foundation models
 
-***
 
 <!--
 **martina-occhetta/martina-occhetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
