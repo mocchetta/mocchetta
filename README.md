@@ -6,12 +6,6 @@ Interested in target identification, perturbation response prediction, biologica
 
 ***
 
-### 📫 Connect with Me  
-
-🔗  [LinkedIn](https://www.linkedin.com/in/martina-occhetta)
-
-📧  m.occhetta@qmul.ac.uk  
-
 <!--
 **martina-occhetta/martina-occhetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
